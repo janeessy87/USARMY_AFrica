@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import USLOGO from '../../uploads/USLog.png'
+import USLOGO from "../public/uploads/USLog.png"
 
 import "./index.css";
 
